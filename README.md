@@ -139,3 +139,9 @@ Remote sensing workflows using Google Earth Engine, Sentinel datasets, QGIS and 
 ## 💡 Quote
 
 > *"Automate everything, keep learning, and build technology that solves real-world problems."*
+
+
+## 🐍 My GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Amarjeetkumart/Amarjeetkumart/output/github-contribution-grid-snake.svg)
+
